@@ -1,4 +1,4 @@
-# Convolutional Neural Network Project
+# petpredictor
 
 This project implements a Convolutional Neural Network (CNN) for image classification using TensorFlow and Keras. The project goes through multiple stages including data preprocessing, CNN architecture creation, training, and evaluation.
 
